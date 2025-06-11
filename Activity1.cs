@@ -10,10 +10,8 @@ public class Code
         int num2 = 5;
         int sum = num1 + num2;
         int diff = num1 - num2;
-        int prod = num1 * num2;
 
         Console.WriteLine($"The sum of {num1} and {num2} is: {sum}");
         Console.WriteLine($"The difference of {num1} and {num2} is: {diff}");
-        Console.WriteLine($"The product of {num1} and {num2} is: {prod}");
     }
 }
