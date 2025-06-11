@@ -9,7 +9,9 @@ public class Code
         int num1 = 10;
         int num2 = 5;
         int sum = num1 + num2;
+        int diff = num1 - num2;
 
         Console.WriteLine($"The sum of {num1} and {num2} is: {sum}");
+        Console.WriteLine($"The difference of {num1} and {num2} is: {diff}");
     }
 }
